@@ -17,5 +17,6 @@ I considered a few multiplex metrics to analyze the multiplex stocks network:
 ## References
 - A tool for filtering information in complex systems , M. Tumminello, T. Aste, T. Di Matteo and R. N. Mantegna PNAS July 26, 2005. 102 (30) 10421-10426;  https://doi.org/10.1073/pnas.0500298102;
 - The new challenges of multiplex networks: Measures and model, F. Battiston, V. Nicosia and V. Latora. Eur. Phys. J. Special Topics 226, 401–416 (2017);
-- The multiplex dependency structure of financial markets, N. Musumeci, V. Nicosia, T. Aste, T. Di Matteo, V. Latora. Jun 15, 2016; https://arxiv.org/abs/1606.04872v1.
+- The multiplex dependency structure of financial markets, N. Musumeci, V. Nicosia, T. Aste, T. Di Matteo, V. Latora. Jun 15, 2016; https://arxiv.org/abs/1606.04872v1
+- Scrape list of current S&P500 components: https://gist.github.com/johncoughlan/39ad681ce03b1c246441d0c775cda45a.
 
