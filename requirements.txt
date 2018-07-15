@@ -1,0 +1,7 @@
+networkx
+pandas
+quandl
+math 
+numpy
+collections
+matplotlib
