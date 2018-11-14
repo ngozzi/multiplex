@@ -5,7 +5,7 @@ The aim of this work is to analyze dependencies and correlations between S&P500 
 
 ## Build the Network
 For each of the three correlation considered, I evaluated correlation matrices between historical log-returns of stocks. Then I filtered these matrices using the Planar Maximally Filtered Graph algorithm (PMFG). A python version of this algorithm that I wrote for this project is included in the notebooks folder. 
-These preprocessing activity yields 3 filtered, weighted, undirected networks that, cosidered together, form 3-layer multiplex network. 
+These preprocessing activity yields 3 filtered, weighted, undirected networks that, cosidered together, form a 3-layer multiplex network. 
 
 ## Multiplex Analysis 
 I considered a few multiplex metrics to analyze the multiplex stocks network: 
