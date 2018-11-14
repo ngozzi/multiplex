@@ -4,7 +4,7 @@
 The aim of this work is to analyze dependencies and correlations between S&P500 stocks using a multiplex approach. To do so I considered different types of correlations (Pearson, Kendall and Spearman) between historical prices of stocks.
 
 ## Build the Network
-For each of the three correlation considered, I evaluated correlation matrices between historical log-returns of stocks. Then I filtered these matrices using the Planar Maximally Filtered Graph algorithm (PMGFG). A python version of this algorithm that I wrote for this project is included in the notebooks folder. 
+For each of the three correlation considered, I evaluated correlation matrices between historical log-returns of stocks. Then I filtered these matrices using the Planar Maximally Filtered Graph algorithm (PMFG). A python version of this algorithm that I wrote for this project is included in the notebooks folder. 
 These preprocessing activity yields 3 filtered, weighted, undirected networks that, cosidered together, form 3-layer multiplex network. 
 
 ## Multiplex Analysis 
